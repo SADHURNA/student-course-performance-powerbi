@@ -125,7 +125,8 @@ Optimize course structure for better completion rates
 
 <img width="762" height="806" alt="image" src="https://github.com/user-attachments/assets/b29739ff-aa85-448a-8af5-b4da13b448b9" />
 
-<img width="762" height="806" alt="image" src="https://github.com/user-attachments/assets/70a35f7c-9acd-4826-a5bf-949c752f3477" />
+<img width="898" height="788" alt="image" src="https://github.com/user-attachments/assets/136b0d0e-6438-43fc-80e7-7e9d0be80c2c" />
+
 
 🚀 Conclusion
 
